@@ -4,3 +4,4 @@ const c=40;
 const b=10;
 console.log("Hello World")
 console.log("HELLO MAIN")
+const d=50;
